@@ -1,0 +1,10 @@
+langchain
+langchain-community
+pypdf
+python-dotenv
+ipykernel
+langchain-text-splitters
+langchain_huggingface
+chromadb
+langchain_groq
+watchdog
