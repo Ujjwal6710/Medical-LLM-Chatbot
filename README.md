@@ -65,4 +65,4 @@ streamlit run main.py
 2. **Create a new branch** (`git checkout -b feature/YourFeature`).
 3. **Make your changes** and commit (`git commit -am 'Add new feature'`).
 4. **Push to the branch** (`git push origin feature/YourFeature`).
-5. **Create a new Pull Request**.
+5. **Create a new Pull Request for the changes made**.
